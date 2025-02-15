@@ -3,7 +3,7 @@ from pathlib import Path
 
 class Config:
     # Google Gemini API Key
-    GOOGLE_API_KEY = "AIzaSyC48aZvtxyDyYtGotCHV9WEyytVT-0Yfp4"  # Replace with your actual Gemini API key
+    GOOGLE_API_KEY = ""  # Replace with your actual Gemini API key
     
     # Paths
     BASE_DIR = Path(__file__).parent
